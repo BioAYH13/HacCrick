@@ -1,4 +1,4 @@
-#!/usr/bin/bash/Rscript
+#!/usr/bin/env bash
 Name <- "Atanda Yinka Habeeb"
 Email <- "Ayinka13@gmail.com"
 Slack_username <- "@Atanda_Yinka"
